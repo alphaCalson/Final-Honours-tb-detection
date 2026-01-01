@@ -385,10 +385,10 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{tb_detection_vit_2026,
-  author = {Your Name},
+  author = {Calson H. Netshikulwe},
   title = {TB Detection using Vision Transformers and Lung Segmentation},
   year = {2026},
-  url = {https://github.com/yourusername/tb-detection}
+  url = {https://github.com/alphaCalson/Final-Honours-tb-detection}
 }
 ```
 
