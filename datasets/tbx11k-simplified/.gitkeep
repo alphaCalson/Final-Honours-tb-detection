@@ -1,2 +1,3 @@
 # This file ensures the directory structure is preserved in Git
 # The actual image files are excluded by .gitignore
+# To download the actual data please read the final report and follow the data links in the refrences area.
