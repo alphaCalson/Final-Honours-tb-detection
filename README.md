@@ -402,8 +402,8 @@ If you use this code in your research, please cite:
 ## 📧 Contact
 
 For questions, issues, or collaboration:
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Project Issues](https://github.com/yourusername/tb-detection/issues)
+- **Email**: 202120274@spu.ac.za 
+- **GitHub Issues**: [Project Issues](https://github.com/alphaCalson/tb-detection/issues)
 
 ## 📜 License
 
