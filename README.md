@@ -332,7 +332,7 @@ scipy>=1.10.0
 ### Hardware Requirements
 - **GPU**: NVIDIA GPU with 6GB+ VRAM (e.g., RTX 4050, GTX 1060 6GB)
 - **RAM**: 16GB+ recommended
-- **Storage**: 10GB+ for dataset, models, and cache
+- **Storage**: 18GB+ for dataset, models, and cache
 
 ### Software Requirements
 - **OS**: Windows 10/11, Linux, macOS
