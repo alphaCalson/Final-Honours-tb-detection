@@ -120,7 +120,7 @@ Open `going.ipynb` in Jupyter/VS Code and execute cells sequentially:
 ```python
 # Cell execution order:
 1-3:   Setup & imports
-4:     Phase 1 - Load segmentation model
+4:     Phase 1 - Load segmentation model download at: https://drive.google.com/file/d/1PE5g0Y3x_Tk5qSecdl3vAdCndU-WgZXb/view?usp=sharing 
 5:     Phase 2 - EDA (generates visualizations)
 6-7:   Phase 3 - Dataset creation with mask caching (2-5 min first run, instant after)
 8-9:   Preprocessing visualizations
@@ -294,6 +294,7 @@ BATCH_SIZE = 8  # or even 4
 **2. Segmentation Model Not Found**
 ```
 Warning: [Errno 2] No such file or directory: 'models/best_model (1).keras'
+or download and manually upload at https://drive.google.com/file/d/1PE5g0Y3x_Tk5qSecdl3vAdCndU-WgZXb/view?usp=sharing 
 ```
 - The pipeline continues with raw images if segmentation model is missing
 - Performance will be reduced (see ablation study results)
